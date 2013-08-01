@@ -1,0 +1,7 @@
+{
+  "name": "callbyname",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@nokia.com>",
+  "description": "Utility functions to call function by their name",
+  "main": "./lib/index.js"
+}
